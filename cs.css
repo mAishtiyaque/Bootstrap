@@ -1,0 +1,34 @@
+li a{
+    font-weight: 600;
+}
+.logo{
+    letter-spacing: 1.8px;
+    font-weight: 700;
+}
+.me{
+    background-color: #004d80;
+}
+.navbar-toggler {
+    border-color: white;}
+.navbar-dark .navbar-nav .nav-link{
+        color: white;
+    }
+.text-center{
+    line-height: 1.3rem;
+}
+.container .bd{
+    margin-bottom: 8px;
+}
+#topHeader{
+    border-bottom: 1px solid #ebebeb;
+  }
+  #topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+  }
+
+.cnt{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
